@@ -1,1 +1,2 @@
 # Multihop-ORS-assisted-FSO-communication-systems
+In this work, we have analyzed the ergodic capacity of the system "Multihop ORS-assisted FSO communication system" under various impediments like atmospheric turbulance, pointing errors and fog fading. We also considered different statistical models for atmospheric turbulance like Gamma-Gamma, M´alaga and IGGG distributions. We also used the Monte-Carlo simulations to verify the derived expressions for ergodic capacity.
